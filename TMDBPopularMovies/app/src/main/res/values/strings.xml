@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TMDB Popular Movies</string>
+    <string name="rating">Movie Rating</string>
+</resources>
